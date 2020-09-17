@@ -1,0 +1,264 @@
+{
+  "users": [
+    {
+      "name": "Maria Noriega",
+      "username": "mnoriega",
+      "password": "1234567",
+      "age": "22",
+      "phone": "999888777",
+      "place": "Lima",
+      "specialization": "FrontEnd",
+      "firstTime": true,
+      "id": 1,
+      "profile": "Profile",
+      "email": "mnoriega@mail.com"
+    },
+    {
+      "id": 11,
+      "name": "Mario Gonzales",
+      "specialization": "Backend",
+      "profile": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, ut neque. Tenetur dignissimos quisquam praesentium minima error, debitis consequatur! Velit facere id nisi repellat? Dolore nesciunt aut sit provident necessitatibus.",
+      "place": "Sede San Juan de Miraflores",
+      "phone": "977456789",
+      "email": "mario@mail.com",
+      "profileUrl": "https://picsum.photos/100/100"
+    },
+    {
+      "id": 2,
+      "name": "Yuri Sacatoma",
+      "specialization": "FrontEnd",
+      "profile": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, ut neque. Tenetur dignissimos quisquam praesentium minima error, debitis consequatur! Velit facere id nisi repellat? Dolore nesciunt aut sit provident necessitatibus.",
+      "place": "Sede San Juan de Miraflores",
+      "phone": "977456789",
+      "email": "yuri@mail.com",
+      "profileUrl": null
+    },
+    {
+      "id": 3,
+      "name": " Luis Fernandez",
+      "specialization": "Diseno UX",
+      "profile": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, ut neque. Tenetur dignissimos quisquam praesentium minima error, debitis consequatur! Velit facere id nisi repellat? Dolore nesciunt aut sit provident necessitatibus.",
+      "place": "Sede San Juan de Miraflores",
+      "phone": "977456789",
+      "email": "luis@mail.com",
+      "profileUrl": null
+    },
+    {
+      "id": 4,
+      "name": "Camila Cordoba",
+      "specialization": "Desarrollo de apps",
+      "profile": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, ut neque. Tenetur dignissimos quisquam praesentium minima error, debitis consequatur! Velit facere id nisi repellat? Dolore nesciunt aut sit provident necessitatibus.",
+      "place": "Sede San Juan de Miraflores",
+      "phone": "977456789",
+      "email": "camila@mail.com",
+      "profileUrl": "https://picsum.photos/100/100"
+    },
+    {
+      "id": 5,
+      "name": "Franco Ponce",
+      "specialization": "Desarrollo de Videojuegos en Unity",
+      "profile": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, ut neque. Tenetur dignissimos quisquam praesentium minima error, debitis consequatur! Velit facere id nisi repellat? Dolore nesciunt aut sit provident necessitatibus.",
+      "place": "Sede San Juan de Miraflores",
+      "phone": "977456789",
+      "email": "franco@mail.com",
+      "profileUrl": null
+    },
+    {
+      "id": 6,
+      "name": "GabrielaVela",
+      "specialization": "BackEnd",
+      "profile": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, ut neque. Tenetur dignissimos quisquam praesentium minima error, debitis consequatur! Velit facere id nisi repellat? Dolore nesciunt aut sit provident necessitatibus.",
+      "place": "Sede San Juan de Miraflores",
+      "phone": "977456789",
+      "email": "gabriela@mail.com",
+      "profileUrl": null
+    },
+    {
+      "name": "Paloma Torres",
+      "username": "ptorresm",
+      "password": "1234567",
+      "age": "25",
+      "phone": "999333222",
+      "place": "Lima",
+      "specialization": "Ux Desing",
+      "firstTime": false,
+      "id": 8,
+      "profile": "Diseñadora Ux  senior",
+      "email": "paloma@gmail.com"
+    }
+  ],
+  "conversations": [
+    {
+      "id": 0,
+      "participants": [
+        {
+          "name": "mnoriega"
+        },
+        {
+          "name": "Camila Cordova",
+          "profileUrl": "https://picsum.photos/100/100"
+        }
+      ],
+      "messages": [
+        {
+          "id": 1,
+          "sender": "mnoriega",
+          "content": "Lorem ipsum dolor sit",
+          "date": "Fri May 08 2020 11:09:55 GMT-0500 (Peru Standard Time)"
+        },
+        {
+          "id": 2,
+          "sender": "Camila Cordova",
+          "content": "amet consectetur adipisicing elit. Laboriosam",
+          "date": "Fri May 08 2020 11:09:55 GMT-0500 (Peru Standard Time)"
+        },
+        {
+          "id": 3,
+          "sender": "mnoriega",
+          "content": "earum quod.",
+          "date": "Fri May 08 2020 11:09:55 GMT-0500 (Peru Standard Time)"
+        },
+        {
+          "id": 4,
+          "sender": "mnoriega",
+          "content": "Molestias quod debitis facilis ex, odio",
+          "date": "Fri May 08 2020 11:09:55 GMT-0500 (Peru Standard Time)"
+        },
+        {
+          "id": 5,
+          "sender": "Camila Cordova",
+          "content": "exercitationem  asdsads asdsadsds adsasdsd asdasdsd asdsadasdad asdsdasdas veniam sapiente, nam optio nobis modi officia necessitatibus",
+          "date": "Fri May 08 2020 11:09:55 GMT-0500 (Peru Standard Time)"
+        },
+        {
+          "id": 6,
+          "sender": "Camila Cordova",
+          "content": "unde? Aliquid",
+          "date": "Fri May 08 2020 11:09:55 GMT-0500 (Peru Standard Time)"
+        },
+        {
+          "id": 7,
+          "sender": "mnoriega",
+          "content": "quam repellendus.",
+          "date": "Fri May 08 2020 11:09:55 GMT-0500 (Peru Standard Time)"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "participants": [
+        {
+          "name": "mnoriega"
+        },
+        {
+          "name": "Gabriela Vela",
+          "profileUrl": "https://picsum.photos/100/100"
+        }
+      ],
+      "messages": [
+        {
+          "id": 1,
+          "sender": "mnoriega",
+          "content": "Lorem ipsum dolor sit",
+          "date": "Fri May 08 2020 11:09:55 GMT-0500 (Peru Standard Time)"
+        },
+        {
+          "id": 2,
+          "sender": "Gabriela Vela",
+          "content": "amet consectetur adipisicing elit. Laboriosam",
+          "date": "Fri May 08 2020 11:09:55 GMT-0500 (Peru Standard Time)"
+        },
+        {
+          "id": 3,
+          "sender": "mnoriega",
+          "content": "earum quod.",
+          "date": "Fri May 08 2020 11:09:55 GMT-0500 (Peru Standard Time)"
+        },
+        {
+          "id": 4,
+          "sender": "mnoriega",
+          "content": "Molestias quod debitis facilis ex, odio",
+          "date": "Fri May 08 2020 11:09:55 GMT-0500 (Peru Standard Time)"
+        },
+        {
+          "id": 5,
+          "sender": "Gabriela Vela",
+          "content": "exercitationem veniamsadsa asdasdasdd asdasdasdad sapiente, nam optio nobis modi officia necessitatibus",
+          "date": "Fri May 08 2020 11:09:55 GMT-0500 (Peru Standard Time)"
+        },
+        {
+          "id": 6,
+          "sender": "Gabriela Vela",
+          "content": "unde? Aliquid",
+          "date": "Fri May 08 2020 11:09:55 GMT-0500 (Peru Standard Time)"
+        },
+        {
+          "id": 7,
+          "sender": "mnoriega",
+          "content": "quam repellendus.",
+          "date": "Fri May 08 2020 11:09:55 GMT-0500 (Peru Standard Time)"
+        },
+        {
+          "id": 6,
+          "sender": "Gabriela Vela",
+          "content": "unde? Aliquid",
+          "date": "Fri May 08 2020 11:09:55 GMT-0500 (Peru Standard Time)"
+        },
+        {
+          "id": 7,
+          "sender": "mnoriega",
+          "content": "quam repellendus.",
+          "date": "Fri May 08 2020 11:09:55 GMT-0500 (Peru Standard Time)"
+        },
+        {
+          "id": 6,
+          "sender": "Gabriela Vela",
+          "content": "unde? Aliquid",
+          "date": "Fri May 08 2020 11:09:55 GMT-0500 (Peru Standard Time)"
+        },
+        {
+          "id": 7,
+          "sender": "mnoriega",
+          "content": "quam repellendus.",
+          "date": "Fri May 08 2020 11:09:55 GMT-0500 (Peru Standard Time)"
+        },
+        {
+          "id": 6,
+          "sender": "Gabriela Vela",
+          "content": "unde? Aliquid",
+          "date": "Fri May 08 2020 11:09:55 GMT-0500 (Peru Standard Time)"
+        },
+        {
+          "id": 7,
+          "sender": "mnoriega",
+          "content": "quam repellendus.",
+          "date": "Fri May 08 2020 11:09:55 GMT-0500 (Peru Standard Time)"
+        },
+        {
+          "id": 6,
+          "sender": "Gabriela Vela",
+          "content": "unde? Aliquid",
+          "date": "Fri May 08 2020 11:09:55 GMT-0500 (Peru Standard Time)"
+        },
+        {
+          "id": 7,
+          "sender": "mnoriega",
+          "content": "quam repellendus.",
+          "date": "Fri May 08 2020 11:09:55 GMT-0500 (Peru Standard Time)"
+        },
+        {
+          "id": 6,
+          "sender": "Gabriela Vela",
+          "content": "unde? Aliquid",
+          "date": "Fri May 08 2020 11:09:55 GMT-0500 (Peru Standard Time)"
+        },
+        {
+          "id": 7,
+          "sender": "mnoriega",
+          "content": "asddasdadsddad.",
+          "date": "Fri May 08 2020 11:09:55 GMT-0500 (Peru Standard Time)"
+        }
+      ]
+    }
+  ]
+}
